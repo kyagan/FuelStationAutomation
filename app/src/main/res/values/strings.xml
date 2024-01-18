@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PetrolOfisi</string>
+    <string name="btnLoginText">GİRİŞ YAP</string>
+    <string name="mainTitle">Türkiye\'nin Petrol Ofisi</string>
+    <string name="liter">Litre</string>
+    <string name="money">Para</string>
+    <string name="full">Full</string>
+    <string name="chooseText">Seçiminizi Yapınız.</string>
+    <string name="amountText">Miktarı Giriniz</string>
+    <string name="btnBuyFuel">Yakıt Al</string>
+    <string name="yourBill">Faturanız</string>
+
+    <string name="yourCar">Aracınız</string>
+    <string name="carFuelType">Yakıt Tipiniz</string>
+    <string name="boughtFuelAmount">Alınan Yakıt Miktarı (Litre)</string>
+    <string name="fuelPrice">Yakıt Bedeli (₺)</string>
+    <string name="carNameAndPlateTitle">Araç İsmi ve Plaka</string>
+    <string name="carCapacityTitle">Depo Kapasitesi (Litre)</string>
+    <string name="carCurrentFuelTitle">Mevcut Yakıt (Litre)</string>
+    <string name="totalPrice">Genel Toplam (₺)</string>
+
+</resources>
